@@ -15,7 +15,7 @@ const CourtRegConfirmation = (props) => {
 						Success! You have booked the court. A confirmation email
 						has been sent to you.
 					</h4>
-					<NavLink className="btn-large green darken-3" to="/">
+					<NavLink className="btn-large green darken-3 rounded-corner z-depth-2" to="/">
 						Return to Home
 					</NavLink>
 				</div>

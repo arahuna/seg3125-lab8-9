@@ -13,7 +13,7 @@ const CourseRegConfirmation = (props) => {
 						Success! You have registered for the course. A confirmation email
 						has been sent to you.
 					</h4>
-					<NavLink className="btn-large green darken-3" to="/">
+					<NavLink className="btn-large green darken-3 rounded-corner z-depth-2" to="/">
 						Return to Home
 					</NavLink>
 				</div>

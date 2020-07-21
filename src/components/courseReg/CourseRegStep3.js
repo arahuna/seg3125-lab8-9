@@ -45,7 +45,7 @@ const CourseRegStep3 = (props) => {
 			</div>
 			<div className="row">
 				<div className="col s6 reg-centering">
-					<NavLink className="btn-large green darken-3" to="/courseReg/confirmation">
+					<NavLink className="btn-large green darken-3 rounded-corner z-depth-2" to="/courseReg/confirmation">
 						Submit registration
 					</NavLink>
 				</div>

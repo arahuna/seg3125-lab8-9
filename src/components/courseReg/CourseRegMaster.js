@@ -102,8 +102,8 @@ class CourtRegMaster extends Component {
 						content: step3Content,
 					},
 				]}
-                primaryBtnClass= {"green darken-3 btn py-0"}
-                secondaryBtnClass={"grey lighten-1 btn py-0"}
+                primaryBtnClass= {"green darken-3 btn py-0 rounded-corner z-depth-2"}
+                secondaryBtnClass={"grey lighten-1 btn py-0 rounded-corner z-depth-2"}
 			/>
             </div>
 		)

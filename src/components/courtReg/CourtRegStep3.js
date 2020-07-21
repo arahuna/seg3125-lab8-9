@@ -39,7 +39,7 @@ const CourtRegStep3 = (props) => {
             </div>
             <div className="row">
 				<div className="col s6 reg-centering">
-					<button className="btn-large green darken-3" onClick={props.addCourtBooking}>
+					<button className="btn-large green darken-3 rounded-corner z-depth-2" onClick={props.addCourtBooking}>
 						Submit booking
 					</button>
 				</div>
